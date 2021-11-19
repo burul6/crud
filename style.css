@@ -1,0 +1,169 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+    
+    font-family: monospace;
+    background: black;
+    color: white;
+  }
+ 
+  
+  #toy-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+  }
+  
+  h1{
+    font-size: 50px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+  
+  #toy-collection {
+    margin: 1%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: grey solid 1px;
+    padding: 1%;
+    width: 20%;
+    height: auto;
+   box-sizing: border-box;
+    margin: 1%;
+    box-shadow: 3px 4px #e04b52;
+    background-color: black;
+    word-wrap: break-word;
+  }
+  .card h6 {
+   max-width: 175px;
+    font-size: 18px;
+    color: white;
+   
+  }
+  .card p {
+    margin-top: auto;
+    font-size: 18px;
+  }
+
+  .toy-avatar {
+    justify-self: center;
+   max-width: 100%;
+    height: auto;
+  }
+  
+  button {
+    position: relative;
+    background-color: #e04b52;
+    border: none;
+    border-radius: 5px;
+    height: 3rem;
+    min-width: 65px;
+    color: whitesmoke;
+    font-size: 18px;
+    justify-self: center;
+    margin: 1%;
+  }
+  
+  button:hover {
+    background-color: whitesmoke;
+    border: #e04b52 solid 1px;
+    color: #e04b52;
+  }
+  
+  .container {
+    padding: 1rem;
+    width: stretch;
+    height: auto;
+    display: none;
+    /* background: #515DA2; */
+    opacity: .8;
+  }
+  
+  .add-toy-form {
+    width: 80%
+  }
+  
+  .submit {
+    position: relative;
+    background-color: #e04b52;
+    border-radius: 5px;
+    height: 2rem;
+    width: max-content;
+    color: whitesmoke;
+    font-size: 18px;
+    justify-self: center;
+    font-family: monospace;
+    margin: 3px;
+  }
+  
+  .submit:hover {
+    background-color: whitesmoke;
+    border: #e04b52 solid 1px;
+    color: #e04b52;
+  }
+  
+  
+  .input-text {
+    border-radius: 5px;
+    height: 2rem;
+    width: 60%;
+    font-size: 18px;
+    font-family: monospace;
+    margin: 3px;
+  }
+  
+  
+   
+
+.heart {
+  position:relative;
+  padding-top: 10px;
+} 
+.heart:before, .heart:after {
+  position:absolute;
+  content:'';
+  left:50%;
+   top:25%;
+   width:15px;
+   height:27px;
+   background-color:#FFCC00;
+  
+   border-radius:7px 7px 0 0;
+ 
+   transform:rotate(-45deg);
+ 
+   transform-origin:0 100%;}
+.heart:after {
+  left:29%;
+
+   transform:rotate(45deg);
+   
+   transform-origin :100% 100%;
+  }
+.search-form {
+  color: white;
+  text-align: center;
+  background: black;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+
+.form-control {
+ width: 50%;
+}
+

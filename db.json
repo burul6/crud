@@ -1,0 +1,102 @@
+{
+  "toys": [
+    {
+      "name": "Beksultanov Omurbek",
+      "image": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png",
+      "about": "ID: 4352; Number: +996 707771211; Weekly total/point: 95,5",
+      "likes": 0,
+      "id": 17
+    },
+    {
+      "name": "Taalaibekova Satina",
+      "image": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png",
+      "about": "ID: 4352; Number: +996 707771211; Weekly total/point: 95,5",
+      "likes": 0,
+      "id": 18
+    },
+    {
+      "name": "Toktogulov Akjol",
+      "image": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png",
+      "about": "ID: 27123412; Number: +996 707771211; Weekly total/point: 76",
+      "likes": 1,
+      "id": 19
+    },
+    {
+      "name": "Ismailov Atahan",
+      "image": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png",
+      "about": "ID: 36712; Number: +996 707771211; Weekly total/point: 12",
+      "likes": 0,
+      "id": 20
+    },
+    {
+      "name": "Paramanov Pavel",
+      "image": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png",
+      "about": "ID: 1712; Number: +996 707771211; Weekly total/point: 98",
+      "likes": 1,
+      "id": 21
+    },
+    {
+      "name": "Tynaliev Erbol",
+      "image": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png",
+      "about": "ID: 3712; Number: +996 707771211; Weekly total/point: 97",
+      "likes": 2,
+      "id": 22
+    },
+    {
+      "name": "Ilyasov Bahtiyar",
+      "image": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png",
+      "about": "ID: 23412; Number: +996 707771211; Weekly total/point: 88",
+      "likes": 2,
+      "id": 23
+    },
+    {
+      "name": "Onorbekova Perizat",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbUqkRN4QaEzCW4brgWElc7lv8HdwP8RyxJ89WdDWAoIO-rEUIACXkEXG4n2mDGMLuz4Q&usqp=CAU",
+      "about": "ID: 1212; Number: +996 707771211; Weekly total/point: 96",
+      "likes": 1,
+      "id": 24
+    },
+    {
+      "name": "Sirajidinov Baiaman",
+      "image": "https://www.emmegi.co.uk/wp-content/uploads/2019/01/User-Icon.jpg",
+      "about": "ID: 23412; Number: +996 707771211; Weekly total/point: 120",
+      "likes": 3,
+      "id": 25
+    },
+    {
+      "name": "Tairov Tariel",
+      "image": "https://www.emmegi.co.uk/wp-content/uploads/2019/01/User-Icon.jpg",
+      "about": "ID: 12342; Number: +996 707771211; Weekly total/point: 99",
+      "likes": 6,
+      "id": 26
+    },
+    {
+      "name": "Baktybekova Burul",
+      "image": "https://cdn5.vectorstock.com/i/1000x1000/01/69/businesswoman-character-avatar-icon-vector-12800169.jpg",
+      "about": "ID: 21342; Number: +996 707771211; Weekly total/point: 99",
+      "likes": 2,
+      "id": 27
+    },
+    {
+      "name": "Rysbekov Emir",
+      "image": "https://imagine-lab.enpc.fr/wp-content/uploads/EuDMTYL9805PPka2gquKHS7qh.png",
+      "about": "ID: 132422; Number: +996 707771211; Weekly total/point: 76",
+      "likes": 2,
+      "id": 28
+    },
+    {
+      "name": "Uzakbekov Mairambek",
+      "image": "https://imagine-lab.enpc.fr/wp-content/uploads/EuDMTYL9805PPka2gquKHS7qh.png",
+      "about": "ID: 1241212; Number: +996 707771211; Weekly total/point: 99",
+      "likes": 2,
+      "id": 29
+    },
+    {
+      "name": "Radjabov Ahmed",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWNvxqwJyqQtJQLKuWSGDQaxDG0JQ1LHbV_ffZ1qdFc85UtnfLu1D2IbsKPdIqnUtyE8&usqp=CAU",
+      "about": "ID: 12341232; Number: +996 707771211; Weekly total/point: 10000020",
+      "likes": 69,
+      "id": 30
+    }
+  ]
+}
